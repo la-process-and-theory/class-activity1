@@ -7,7 +7,8 @@ Please look for patterns in between the variables in the data set through visual
 ## Code Book
 
 id - student id number  
-login - how many times a student logged in over a one month period  
+login - how many times a student logged in over a one month period
+score - average correctness per session
 levels - the levels a student is in representing proficiency (0 - 9)  
 skill.tree - how many skills a student has added to their avatar  
 avatar.complexity - how many modifcations a student has made to their avatar  
